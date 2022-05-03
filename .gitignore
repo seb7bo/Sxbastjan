@@ -5,3 +5,6 @@
 *
 !/**/
 !*.*
+
+# ignore .text
+*.text
