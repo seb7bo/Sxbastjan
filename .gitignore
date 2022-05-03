@@ -1,0 +1,7 @@
+# ignore all out files
+*.out
+
+# ignore files without extension
+*
+!/**/
+!*.*
